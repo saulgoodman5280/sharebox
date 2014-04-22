@@ -1,4 +1,0 @@
-sharebox
-========
-
-FIle sharing site
